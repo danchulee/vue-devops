@@ -1,7 +1,7 @@
 <template>
   <div>
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your 이주원 App" />
+    <HelloWorld msg="test success" />
   </div>
 </template>
 
